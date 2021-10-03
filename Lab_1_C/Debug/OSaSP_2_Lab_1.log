@@ -1,0 +1,12 @@
+﻿  EntryPoint.c
+D:\С\OSaSP2_Lab_1\EntryPoint.c(38,41): warning C4133: функция: несовместимые типы - из "char *" в "LPCWSTR"
+D:\С\OSaSP2_Lab_1\EntryPoint.c(120,51): warning C4133: функция: несовместимые типы - из "unsigned short [16]" в "char *"
+D:\С\OSaSP2_Lab_1\EntryPoint.c(121,54): warning C4133: функция: несовместимые типы - из "unsigned short [16]" в "char *"
+D:\С\OSaSP2_Lab_1\EntryPoint.c(158,14): warning C4101: ps: неиспользованная локальная переменная
+D:\С\OSaSP2_Lab_1\EntryPoint.c(160,9): warning C4101: hBmp: неиспользованная локальная переменная
+D:\С\OSaSP2_Lab_1\EntryPoint.c(159,6): warning C4101: hDC: неиспользованная локальная переменная
+D:\С\OSaSP2_Lab_1\EntryPoint.c(243,57): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+D:\С\OSaSP2_Lab_1\EntryPoint.c(243,53): warning C4024: DragQueryFileW: различные типы для формального и фактического параметров 4
+D:\С\OSaSP2_Lab_1\EntryPoint.c(246,43): warning C4133: функция: несовместимые типы - из "TCHAR [260]" в "char *"
+D:\С\OSaSP2_Lab_1\EntryPoint.c(189): warning C4716: Cls_OnCreate: должна возвращать значение
+  OSaSP_2_Lab_1.vcxproj -> D:\С\OSaSP2_Lab_1\Debug\OSaSP_2_Lab_1.exe

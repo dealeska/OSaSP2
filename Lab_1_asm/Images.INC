@@ -1,0 +1,2 @@
+hdcBackGround           dd      ?
+hdcSpriteImage          dd      ?

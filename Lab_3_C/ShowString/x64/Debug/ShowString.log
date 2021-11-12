@@ -1,0 +1,3 @@
+﻿  Source.c
+D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\ShowString\Source.c(20,7): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  ShowString.vcxproj -> D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\x64\Debug\ShowString.exe

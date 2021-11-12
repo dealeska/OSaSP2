@@ -1,0 +1,5 @@
+﻿  DLLMain.c
+  ReplaceString.c
+D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\ReplaceString\ReplaceString.c(17,52): warning C4133: <: несовместимые типы - из "LPVOID" в "char *"
+  Создание кода...
+  ReplaceString.vcxproj -> D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\x64\Debug\ReplaceString.lib

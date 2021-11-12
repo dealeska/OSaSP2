@@ -1,0 +1,6 @@
+﻿  Injection.c
+D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\DllInjection\Injection.c(36,103): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\DllInjection\Injection.c(36,99): warning C4024: CreateRemoteThread: различные типы для формального и фактического параметров 6
+D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\DllInjection\Injection.c(45,33): warning C4312: приведение типов: преобразование из "DWORD" в "HMODULE" большего размера
+D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\DllInjection\Injection.c(83,7): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  DllInjection.vcxproj -> D:\WinXP\FASM\INCLUDE\OSaSP2\Lab_3_C\x64\Debug\DllInjection.exe
